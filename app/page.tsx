@@ -20,9 +20,9 @@ export default function Home() {
           <div className="max-w-4xl mx-auto">
             <div className="bg-charcoal rounded-lg p-6 md:p-8 border border-gold/30 shadow-lg">
               <div className="text-center">
-                                 <h2 className="text-lg md:text-2xl font-bold text-gold mb-4 whitespace-nowrap">
-                   WATCH THE INVESTMENT GUIDE BELOW:
-                 </h2>
+                <h2 className="text-xl md:text-2xl font-bold text-gold mb-4">
+                  WATCH THE INVESTMENT GUIDE BELOW:
+                </h2>
                 <p className="text-sm md:text-base text-gray-300 leading-relaxed">
                   Please note: watching the video below will properly inform you with everything you possibly need to know to make an educated decision when investing into any solar done for you partnership.
                 </p>
