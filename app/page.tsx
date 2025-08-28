@@ -48,17 +48,17 @@ export default function Home() {
             <p className="text-sm md:text-base text-gray-300 leading-relaxed">
               If you have any questions or run into issues, email us at{' '}
               <a 
-                href="mailto:info@properesolar.com" 
+                href="mailto:info@solarbossautomations.com" 
                 className="text-gold hover:text-gold/80 transition-colors"
               >
-                info@properesolar.com
+                info@solarbossautomations.com
               </a>
               , or call us at{' '}
               <a 
-                href="tel:+18184450316" 
+                href="tel:+17864961702" 
                 className="text-gold hover:text-gold/80 transition-colors"
               >
-                +1 (818) 445-0316
+                +1 786-496-1702
               </a>
               {' '}and we'll get back to you as soon as possible.
             </p>
